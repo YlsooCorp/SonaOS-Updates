@@ -1,6 +1,6 @@
 {
-    "latest_version": "1.0.1",
-    "changelog": "New: Ylsoo Terminal, System Monitor, Multi-User Accounts",
+    "latest_version": "1.0.2",
+    "changelog": "New: Wallpaper System with 9 built-in gradient presets and custom image support",
     "download_url": "https://raw.githubusercontent.com/YlsooCorp/SonaOSSource/main/builds/SonaOS_Mock",
     "release_date": "2026-04-05"
 }
