@@ -1,6 +1,6 @@
 {
-    "latest_version": "1.0.2",
-    "changelog": "New: Wallpaper System with 9 built-in gradient presets and custom image support",
+    "latest_version": "1.0.3",
+    "changelog": "New: Dynamic Island at the top center of the screen for notifications and quick info.",
     "download_url": "https://raw.githubusercontent.com/YlsooCorp/SonaOSSource/main/builds/SonaOS_Mock",
     "release_date": "2026-04-05"
 }
