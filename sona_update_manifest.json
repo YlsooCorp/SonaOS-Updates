@@ -1,6 +1,6 @@
 {
     "latest_version": "1.0.5",
-    "changelog": "New: Ylsoo Calculator app with dark UI, chained operations, +/-, % and decimal support",
+    "changelog": "Mega Update: Global Dark Mode, native Calculator app, App Store with installable widgets, right-click Context Menus, and dynamic Window Snapping/Resizing.",
     "download_url": "https://raw.githubusercontent.com/YlsooCorp/SonaOSSource/main/builds/SonaOS_Mock",
     "release_date": "2026-04-06"
 }
